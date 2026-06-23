@@ -1,9 +1,9 @@
 Keep this file and signing.keystore in a safe place. You'll need these files if you want to upload future versions of your PWA to the Google Play Store.
 
 Key store file: signing.keystore
-Key store password: FgEqTls_B9qG
+Key store password: tj9vG2bH4pdG
 Key alias: my-key-alias
-Key password: FgEqTls_B9qG
+Key password: tj9vG2bH4pdG
 Signer's full name: Basic English Admin
 Signer's organization: Basic English — Ogden's 850 Words
 Signer's organizational unit: Engineering
