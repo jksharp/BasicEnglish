@@ -4,7 +4,7 @@ Key store file: signing.keystore
 Key store password: 8GGOWrZpaPKy
 Key alias: my-key-alias
 Key password: 8GGOWrZpaPKy
-Signer's full name: Basic English Admin
-Signer's organization: Basic English — Ogden's 850 Words
-Signer's organizational unit: Engineering
-Signer's country code: US
+Signer's full name: 
+Signer's organization: 
+Signer's organizational unit: 
+Signer's country code: 
