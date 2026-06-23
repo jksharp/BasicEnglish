@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "include": [
+     "/tool*", // 页面访问路由（如/tool1001）
+    "/api-pages", // 页面管理接口（adminview.html使用）
+    "/api/tools", 
+    "/api/sync*" // 订单同步核心接口（sync.html和sync.js使用）
+  ],
+  "exclude": []
+}
