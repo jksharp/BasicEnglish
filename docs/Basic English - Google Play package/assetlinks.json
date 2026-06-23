@@ -1,8 +1,0 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "dev.pages.basicenglish_27k.twa",
-        "sha256_cert_fingerprints": ["E4:DD:D8:A4:95:10:9F:C7:CB:D9:00:05:D1:3A:61:8D:1A:A6:FB:B8:1C:E8:7B:BF:67:83:D3:7A:9F:BF:0E:30"]
-      }
-    }]
