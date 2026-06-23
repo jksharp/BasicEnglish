@@ -3,6 +3,6 @@
       "target": {
         "namespace": "android_app",
         "package_name": "dev.pages.basicenglish_27k.twa",
-        "sha256_cert_fingerprints": ["F0:47:B6:E5:0E:8D:49:0E:F3:47:FA:18:75:68:79:10:7E:D3:5C:80:17:9A:7D:82:F5:05:0F:58:9A:8A:A6:B3"]
+        "sha256_cert_fingerprints": ["23:2F:4E:76:63:CF:7C:44:79:F5:B7:BF:78:6B:21:3B:DC:0C:CD:2D:93:55:97:A2:41:74:16:B7:84:4D:F3:49"]
       }
     }]
